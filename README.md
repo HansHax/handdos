@@ -19,5 +19,5 @@ $python2 hdos.py
 https://wa.me/6287850013150
 https://t.me/Hanusenkunn
 
-# Sosmed
-Follow IG:@hans.quot
+# Social Media
+Follow Me On IG: @hans.quot
