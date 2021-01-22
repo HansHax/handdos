@@ -27,7 +27,7 @@ print "Author    : Hans Hax"
 print "Contact me: +6287850013150"
 print "Thanks To : HansHax"
 print "-----------------------------]"
-print "Peringatan! Jika Kalian tidak memahami DDoS, lebih baik pelaja>
+print "Peringatan! Jika Kalian tidak memahami DDoS, lebih baik pelajari terlebih dahulu"
 print
 ip = raw_input("IP Target : ")
 port = input("Port        : ")
@@ -45,8 +45,7 @@ time.sleep(10)
 print "[===============     ] 75%"
 time.sleep(9)
 print "[====================] 100%"
-time.sleep(3)
-print "paket yang terkirim 9999999999999999999999999"
+time.sleep(3)                                                                                        print "paket terkirim"
 time.sleep(2)
 os.system("clear")
 print "mengirim paket ke Target"
